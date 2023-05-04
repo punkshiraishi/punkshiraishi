@@ -15,6 +15,6 @@
 </p>
   
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/punkshiraishi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.48&i=3.3&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/3/2023, 12:07:42 AM
+<a href="https://lapras.com/public/punkshiraishi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.48&i=3.31&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 5/4/2023, 12:08:00 AM
 <!--END_SECTION:lapras-card-->
